@@ -1,6 +1,6 @@
 # Interpreting and Disentangling Feature Components of Various Complexity from DNNs
 
-PyTorch implementation of *Interpreting and Disentangling Feature Components of Various Complexity from DNNs* (ICML2021). [pdf](http://proceedings.mlr.press/v139/ren21b/ren21b.pdf)
+PyTorch implementation of *Interpreting and Disentangling Feature Components of Various Complexity from DNNs* (ICML2021). [[pdf]](http://proceedings.mlr.press/v139/ren21b/ren21b.pdf) [[arxiv]](https://arxiv.org/abs/2006.15920)
 
 ![demo](./img/demo.png)
 
